@@ -1,1 +1,25 @@
 welcome to use git!
+
+--git config
+--git help
+
+--git init
+--git clone
+
+--git add
+--git commit
+--git status
+--git reset
+--git diff
+--git log
+--git relog
+--git mv
+--git rm
+
+--git checkout
+--git branch
+--git merge
+
+--git fetch
+--git push
+--git remote
