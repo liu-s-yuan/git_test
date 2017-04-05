@@ -1,7 +1,7 @@
 welcome to use git!
 
---git config
---git help
+git config
+git help
 
 --git init
 --git clone
@@ -23,6 +23,8 @@ welcome to use git!
 --git fetch
 --git push
 --git remote
+
+--git rebase
 
 ======================
 test rebase
