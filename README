@@ -3,9 +3,10 @@ welcome to use git!
 --git config
 --git help
 
---git init
---git clone
+git init
+git clone
 
+--------------------
 --git add
 --git commit
 --git status
@@ -27,3 +28,5 @@ welcome to use git!
 ======================
 test rebase
 ======================
+
+----------------------
